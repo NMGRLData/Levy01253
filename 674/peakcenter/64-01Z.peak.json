@@ -1,0 +1,54 @@
+{
+    "H1": {
+        "center_dac": 3.7644384769539077,
+        "center_signal": 82.51995859996936,
+        "high_dac": 3.7655999999999996,
+        "high_resolving_power": 5168.044554457201,
+        "high_signal": 61.126020517068845,
+        "low_dac": 3.7632769539078157,
+        "low_resolving_power": 4240.7276422782,
+        "low_signal": 61.869911684196694,
+        "points": "QHDPfEElWqpAcNDTQNxDDkBw0ipBDMnDQHDTgUFjLTdAcNTYQbWOOkBw1i9CBm8nQHDXh0I0W3hAcNjeQl1eBkBw2jVCh5aPQHDbjEKRr5VAcNzjQpkzf0Bw3jpCnODUQHDfkkKf8KhAcODpQqJD3kBw4kBCovHRQHDjl0KjOPtAcOTuQqPWCUBw5kVCpEfEQHDnnUKkWj1AcOj0QqTEmkBw6ktCpO4TQHDrokKkn3ZAcOz5QqSH00Bw7lBCpKKYQHDvqEKlCfNAcPD/QqSCxUBw8lZCpGykQHDzrUKkd5BAcPUEQqSkDUBw9ltCpLliQHD3s0KkEY1AcPkKQqP1O0Bw+mFCoUWaQHD7uEKc4x1AcP0PQpQdlkBw/mZCh46/QHD/vkJt+hdAcQEVQhZnskBxAmxBs7I8QHEDw0GIPI9AcQUaQTnG8EBxBnJAwmRbQHEHyUCATYpAcQkgQA9x5EBxCnc/vD8R",
+        "resolution": 1098.4957894738714
+    },
+    "H2": {
+        "center_dac": 3.764481763527054,
+        "center_signal": 291.6346361967218,
+        "high_dac": 3.765679358717435,
+        "high_resolving_power": 5612.779569893828,
+        "high_signal": 217.6929628733546,
+        "low_dac": 3.7632841683366736,
+        "low_resolving_power": 5268.8333333341825,
+        "low_signal": 217.8809987406169,
+        "points": "QHDPfEDDqw1AcNDTQM4tKUBw0ipBqXZgQHDTgUIqxERAcNTYQpFgwkBw1i9C3uNnQHDXh0MWbXBAcNjeQzr/wUBw2jVDbdeEQHDbjEOCCGlAcNzjQ4j89EBw3jpDjNoCQHDfkkOPfzdAcODpQ5DtO0Bw4kBDkWhxQHDjl0ORVJBAcOTuQ5FoKkBw5kVDkXIjQHDnnUORk31AcOj0Q5GfSEBw6ktDkZEeQHDrokOR0VNAcOz5Q5GSykBw7lBDkZsqQHDvqEORympAcPD/Q5GrfkBw8lZDkYJTQHDzrUORnwFAcPUEQ5GCrEBw9ltDkXQXQHD3s0ORqVVAcPkKQ5Gh3UBw+mFDkR6EQHD7uEOQfDlAcP0PQ432sEBw/mZDidIpQHD/vkOCzJdAcQEVQ1GBV0BxAmxDIza6QHEDw0MFjjtAcQUaQr6twEBxBnJCREsuQHEHyUIAkZdAcQkgQVsL1kBxCndBDKBS",
+        "resolution": 1110.2127659576024
+    },
+    "L1": {
+        "center_dac": 3.764781162324649,
+        "center_signal": 0.7313437251122739,
+        "high_dac": 3.764820841683367,
+        "high_resolving_power": 52184.89999983644,
+        "high_signal": 0.548358207328176,
+        "low_dac": 3.7647414829659316,
+        "low_resolving_power": 14495.027777786874,
+        "low_signal": 0.4972564194404829,
+        "points": "QHDPfD6BFgZAcNDTPvI9mEBw0iq+bsN6QHDTgbzPqcpAcNTYPpEc20Bw1i8+FZS4QHDXh76qyCZAcNjevpMdVEBw2jU+ct0FQHDbjDsQpolAcNzjvl776kBw3jq/DuCyQHDfkj5l8mJAcODpPdnYGUBw4kA+DuJSQHDjlzyu9VlAcOTuPbV9zEBw5kU8JkFMQHDnnT2NUBRAcOj0vIb3b0Bw6ku+uV04QHDroj7+69ZAcOz5vieDu0Bw7lA+lahfQHDvqD5o0TBAcPD/PoEWBkBw8lY/OlNZQHDzrT1IW1pAcPUEPOCzV0Bw9ls9aOGrQHD3s76UEiJAcPkKvlVrqUBw+mE/GeZ5QHD7uD5RYFlAcP0Push0r0Bw/ma+C0zsQHD/vj5CEYJAcQEVvgSbAUBxAmw+XkrrQHEDw7zbJEFAcQUaPvCQ2kBxBnI+OuSSQHEHyb1He85AcQkgPegxr0BxCne9+9In",
+        "resolution": 10231.931372550294
+    },
+    "L2(CDD)": {
+        "center_dac": 3.7644060120240477,
+        "center_signal": 0.12666358097710348,
+        "high_dac": 3.764806412825651,
+        "high_resolving_power": 4109.2716535441705,
+        "high_signal": 0.09305316466098472,
+        "low_dac": 3.7640056112224447,
+        "low_resolving_power": 4497.646551724839,
+        "low_signal": 0.09299590023688006,
+        "points": "QHDPfAAAAABAcNDTAAAAAEBw0ioAAAAAQHDTgQAAAABAcNTYAAAAAEBw1i8AAAAAQHDXhwAAAABAcNjeAAAAAEBw2jU6KI+7QHDbjDsoj75AcNzjOyiPvkBw3jo7/NenQHDfkjxyTrhAcODpPQOwa0Bw4kA9Ss06QHDjlz2I9Q9AcOTuPasyaUBw5kU90rRSQHDnnT3JfGdAcOj0PdvsPUBw6ks92+w9QHDroj32QuFAcOz5PgG3GkBw7lA9+4dpQHDvqD3yT3tAcPD/PekXjkBw8lY9yCtGQHDzrT2XcXlAcPUEPYEOSkBw9ls9I0tvQHD3szzC5lRAcPkKPJjCV0Bw+mE8SCrBQHD7uDvnxa1AcP0PO+fFrUBw/mY7vaG6QHD/vjuTfchAcQEVOvzXnEBxAmw6/NecQHEDwzqoj7xAcQUaOyiPvkBxBnIAAAAAQHEHyQAAAABAcQkgOyiPvkBxCnc6/Nec",
+        "resolution": 1918.4007352943568
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "L2(CDD)",
+    "reference_isotope": "Ar36"
+}
